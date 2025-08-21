@@ -8,7 +8,7 @@ Two related signals are simulated:
 
 A **rolling correlation** tracks how their relationship changes over time.  
 
-## 🔹 Features
+##  Features
 
 - **Line Plot Animation**: Shows Series A and B evolving together with rolling correlation.  
 ![Time Series Correlation](time_series_correlation.gif)  
